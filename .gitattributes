@@ -1,2 +1,2 @@
-hello.html merge=ours
-index.html merge=ours
+hello.html merge=theirs
+index.html merge=theirs
